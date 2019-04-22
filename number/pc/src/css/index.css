@@ -37,10 +37,19 @@
     margin-left: 50px;
 }
 
-.zhi {
+
+/* .zhi {
     width: 50px;
     height: 30px;
     background: pink;
+} */
+
+.top ul li:nth-child(2) {
+    background: pink;
+}
+
+.top ul li:nth-child(2):hover {
+    background: gray;
 }
 
 .right {
